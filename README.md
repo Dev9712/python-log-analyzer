@@ -230,3 +230,8 @@ This project is created for learning and placement preparation purposes.
 ## 📁 Project Structure
 
 ![Project Structure](screenshots/project-structure.png)
+
+
+## 💻 CLI Output
+
+![CLI Output](screenshots/cli-output.png)
