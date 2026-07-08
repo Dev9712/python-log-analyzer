@@ -233,5 +233,4 @@ This project is created for learning and placement preparation purposes.
 
 
 ## 💻 CLI Output
-
-![CLI Output](screenshots/cli-output.png)
+![CLI Output](screenshots/terminal-output.png)
